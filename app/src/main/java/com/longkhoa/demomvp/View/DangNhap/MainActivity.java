@@ -1,4 +1,4 @@
-package com.longkhoa.demomvp;
+package com.longkhoa.demomvp.View.DangNhap;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -7,8 +7,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.longkhoa.demomvp.XuLyDangNhap.PresenterLogicXuLyDangNhap;
-import com.longkhoa.demomvp.XuLyDangNhap.ViewXuLyDangNhap;
+import com.longkhoa.demomvp.R;
+import com.longkhoa.demomvp.Presenter.DangNhap.PresenterLogicXuLyDangNhap;
 
 public class MainActivity extends AppCompatActivity implements ViewXuLyDangNhap {
 

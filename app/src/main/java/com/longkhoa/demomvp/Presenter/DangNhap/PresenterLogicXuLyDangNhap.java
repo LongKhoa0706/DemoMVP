@@ -1,6 +1,7 @@
-package com.longkhoa.demomvp.XuLyDangNhap;
+package com.longkhoa.demomvp.Presenter.DangNhap;
 
-import com.longkhoa.demomvp.MainActivity;
+import com.longkhoa.demomvp.View.DangNhap.MainActivity;
+import com.longkhoa.demomvp.View.DangNhap.ViewXuLyDangNhap;
 
 public class PresenterLogicXuLyDangNhap implements PresenterImpXuLyDangNhap {
     ViewXuLyDangNhap viewXuLyDangNhap;
